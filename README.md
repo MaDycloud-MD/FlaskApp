@@ -32,3 +32,4 @@ To deploy the Flask application to Azure Web Apps, use the following Azure CLI c
 az webapp up -n randomflaskapp
 
 
+
